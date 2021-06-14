@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jim Katsanos!
+- 👀 I’m interested in coding, music production, android, memes, 3d modelling and video editing
+- 🌱 I’m currently learning C
+- 📫 How to reach me -> deekatsanos@gmail.com or prod7earth@gmail.com
